@@ -1,3 +1,9 @@
+// block_extractor_test.ts tests for block_extractor.ts
+//
+// @author R. S. Doiel
+// copyright © 2025 All Rights Reserved
+// See <https://opensource.org/license/BSD-3-Clause> for license information. 
+
 import { extractCodeBlocks } from "./block_extractor.ts";
 import { assert } from "@std/assert";
 

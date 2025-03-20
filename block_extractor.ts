@@ -1,3 +1,8 @@
+// block_extractor.ts is extract code blocks from Markdown documents where blocks are delimited by ```.
+//
+// @author R. S. Doiel
+// copyright © 2025 All Rights Reserved
+// See <https://opensource.org/license/BSD-3-Clause> for license information. 
 import { parseArgs } from "@std/cli/parse-args";
 
 /**
